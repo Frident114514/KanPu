@@ -1,0 +1,10 @@
+.gradle/
+.android-sdk/
+.android-repository.xml
+.platform-36.zip
+.build-tools-36.zip
+local.properties
+**/build/
+.idea/
+*.iml
+.DS_Store
